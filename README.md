@@ -37,21 +37,15 @@ The project uses the following Python libraries:
 ### Usage:
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/assignment4_cost_sensitive_learning.git
-    cd assignment4_cost_sensitive_learning
-    ```
+    git clone https://github.com/HimanshiVerma05/CostSensitiveLearning.git
+    cd CostSensitiveLearning
+    ``
 
-2. Install the necessary Python libraries:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Run the Jupyter notebook to execute the models and visualize the results.
+2. Run the Jupyter notebook to execute the models and visualize the results.
 
 ### File Structure:
-- `A4-HimanshiVerma.ipynb`: The Jupyter notebook containing the code for both parts of the assignment.
-- `A4-HimanshiVerma.pdf`: The detailed report for Assignment 4.
-- `requirements.txt`: Python dependencies required to run the notebook.
+- `CostSensitiveLearning.ipynb`: The Jupyter notebook containing the code for both parts of the assignment.
+
 
 ### Insights and Conclusion:
 The excercies highlights the importance of cost-sensitive learning and methods to handle imbalanced datasets. Techniques like Bayes Minimum Risk Classifier and Easy Ensemble can significantly reduce misclassification costs and improve minority class detection.
