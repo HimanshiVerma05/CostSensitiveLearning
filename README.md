@@ -1,5 +1,5 @@
 ### Project Overview:
-This repository contains the code and analysis for Assignment 4 of the course CSCI 4146/6409 - Process of Data Science. The assignment is divided into two parts, focusing on:
+The assignment is divided into two parts, focusing on:
 - **Part A:** Cost-Sensitive Learning on the Statlog (Heart) dataset.
 - **Part B:** Handling Class Imbalance in Credit Card Fraud Detection.
 
